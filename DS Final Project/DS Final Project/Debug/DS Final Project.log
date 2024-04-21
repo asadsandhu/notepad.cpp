@@ -1,0 +1,4 @@
+﻿  My Notepad.cpp
+E:\3rd Semester\DS\DS Final Project\DS Final Project\My Notepad.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+E:\3rd Semester\DS\DS Final Project\DS Final Project\My Notepad.cpp(28,22): warning C4018: '<=': signed/unsigned mismatch
+  DS Final Project.vcxproj -> E:\3rd Semester\DS\DS Final Project\Debug\DS Final Project.exe
